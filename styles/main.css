@@ -2,5 +2,13 @@
 
 .app {
 
-    color: red;;
+    color: red;
+}
+
+svg {
+    max-height: 100%;
+}
+
+body {
+    margin: 0;
 }
